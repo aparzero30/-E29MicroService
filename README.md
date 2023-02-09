@@ -7,6 +7,14 @@ Heres the process on how to restore database on postgres using a backup file //h
 
 also in my application.propertie files our credentials on postgres may be different so please change those credentials on my application.property files
 
+If you want to try each endpoints of the microservices you can paste this in the browser
+
+User = http://localhost:8081/swagger-ui/index.html#/
+Product  = http://localhost:8082/swagger-ui/index.html#/
+Cart = http://localhost:8083/swagger-ui/index.html#/
+
+
+
 
 1.What are the functionalities involved, and the microservices you've created
 
